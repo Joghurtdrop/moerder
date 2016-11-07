@@ -1,0 +1,13 @@
+Python3 Skript zum erstellen von Zykeln für das Moerderspiel. 
+
+Nutzung:
+
+Falls man eine Datei mit den Namen (einen pro Zeile, getrennt durch newline) schon hat 
+-> umbenenen in "tmp" und in den selben Order wie das Skript legen
+-> Skript ausfuehren "python3 moerder.py" und im Promt Liste fortsetzen
+
+Sonst Skript ausfuehren und neue Liste anlegen,
+
+Danach die erstellte morderpy.pdf doppelseitig drucken und in der Mitte falten.
+Die Schwarzen Namen sollten vorne zu sehen sein und zeigt den Namen des Auftragkillers,
+der gruene (hellgrau bei b/w Druckern) sollte innen sein und zeigt den Namen des Opfers.
